@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ang Sobrang Astig na Direktoryo ni ENZ</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(to right, #ff6f61, #fb5607);
+            color: #fff;
+            text-align: center;
+        }
+        h1 {
+            color: #FFD700;
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 40px;
+        }
+        li {
+            padding: 10px;
+            background-color: #ffffff;
+            border: 1px solid #dee2e6;
+            margin-bottom: 5px;
+        }
+        li:hover {
+            background-color: #f1f1f1;
+        }
+        a {
+            color: #0000FF;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #FFD700;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ang Sobrang Astig na Direktoryo ni ENZ</h1>
+    <p>Tanawin ang karangalan ni ENZ, ang kahulugan ng kagwapuhan, talino, at alindog! Ang kanyang kislap na aura ay nagbibigay-ilaw sa dijital na kalupaan ng walang kapantay na kagiliw-giliw. Siyasatin ang mga direktoryo sa ibaba at magpaka-engganyo sa kahanga-hangang alindog ni ENZ!</p>
+    <ul>
+        <li><a href="https://super-fancy-enz-website.com" target="_blank">Pumunta sa Sobrang Astig na Website ni ENZ</a></li>
+        <!-- Ang listahan ng direktoryo ay bubuo sa paraan ng dynamiko dito -->
+    </ul>
+</body>
+</html>
